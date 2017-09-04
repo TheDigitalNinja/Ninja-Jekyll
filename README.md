@@ -2,6 +2,8 @@
 
 A bootstrap based Jekyll framework and theme for websites.
 
+[View Demo](https://thedigitalninja.github.io/Ninja-Jekyll/)
+
 ## Requirements
 * Jekyll
   * Ruby 2.1 or above 
