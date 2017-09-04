@@ -1,6 +1,16 @@
-#Ninja Jekyll
+# Ninja Jekyll
 
-A Bootstrap and Jekyll framework
+A bootstrap based Jekyll framework and theme for websites.
+
+## Requirements
+* Jekyll
+  * Ruby 2.1 or above 
+* Nodejs
+* Grunt
+
+## Installation
+git clone
+npm install
 
 ## Usage
 
