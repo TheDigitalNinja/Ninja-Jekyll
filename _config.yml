@@ -3,7 +3,7 @@ title: Ninja Jekyll
 header-img: img/home-bg.jpg
 copyright: Ninja Jekyll
 description: "Site Description"
-baseurl: ""
+baseurl: "/Ninja-Jekyll"
 url: "http://yourfqdn.com"
 facebook:  thedigitalninja
 twitter: thedigitalninja
