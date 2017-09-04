@@ -1,0 +1,52 @@
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row" data-sr='enter bottom'>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    {% if site.facebook %}
+                    <li>
+                        <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank">
+                            <i class="fa fa-2x fa-facebook-official"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.twitter %}
+                    <li>
+                        <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+                            <i class="fa fa-2x fa-twitter"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.github %}
+                    <li>
+                        <a href="https://github.com/{{ site.github }}" target="_blank">
+                            <i class="fa fa-2x fa-github"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.email %}
+                    <li>
+                        <a href="mailto:{{ site.email }}">
+                          <i class="fa fa-2x fa-envelope"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                    <li>
+                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">
+                            <i class="fa fa-2x fa-rss"></i>
+                        </a>
+                    </li>
+                </ul>
+                <p class="copyright text-muted">Copyright &copy; {{ site.copyright }} {{ site.time | date: '%Y' }}</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Custom Theme JavaScript -->
+<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.js"></script>
+<script src="https://cdn.jsdelivr.net/scrollreveal.js/2.3.2/scrollReveal.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="{{ "/js/main.min.js " | prepend: site.baseurl }}"></script>

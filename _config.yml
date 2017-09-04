@@ -1,0 +1,25 @@
+# Site settings
+title: Ninja Jekyll
+header-img: img/home-bg.jpg
+copyright: Ninja Jekyll
+description: "Site Description"
+baseurl: ""
+url: "http://yourfqdn.com"
+facebook:  thedigitalninja
+twitter: thedigitalninja
+github:  thedigitalninja
+email: email@example.org
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+paginate_path: "/blog/page:num/"
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
