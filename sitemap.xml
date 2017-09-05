@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/Ninja-Jekyll/2017/09/01/sample/</loc>
+<loc>https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/2017/09/01/sample/</loc>
 <lastmod>2017-09-01T06:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Ninja-Jekyll/about/</loc>
+<loc>https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Ninja-Jekyll/Gallery/</loc>
+<loc>https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/Gallery/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Ninja-Jekyll/</loc>
+<loc>https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Ninja-Jekyll/blog/</loc>
+<loc>https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/blog/</loc>
 </url>
 </urlset>

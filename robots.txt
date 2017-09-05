@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/Ninja-Jekyll/sitemap.xml
+Sitemap: https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/sitemap.xml
