@@ -1,1 +1,1 @@
-Sitemap: https://thedigitalninja.github.io/Ninja-Jekyll//Ninja-Jekyll/sitemap.xml
+Sitemap: https://thedigitalninja.github.io/Ninja-Jekyll/sitemap.xml
