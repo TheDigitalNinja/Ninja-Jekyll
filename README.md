@@ -12,6 +12,7 @@ A bootstrap based Jekyll framework and theme for websites.
 
 ## Installation
 git clone
+
 npm install
 
 ## Usage
