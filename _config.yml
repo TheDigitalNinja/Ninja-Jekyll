@@ -4,12 +4,12 @@ header-img: img/home-bg.jpg
 copyright: Ninja Jekyll
 description: "Site Description"
 baseurl: "/Ninja-Jekyll"
-url: "http://yourfqdn.com"
+url: "https://thedigitalninja.github.io/Ninja-Jekyll/"
 facebook:  thedigitalninja
 twitter: thedigitalninja
 github:  TheDigitalNinja/Ninja-Jekyll
 email: email@example.org
-# google_tracking_id:
+google_tracking_id: UA-105850065-1
 
 # Build settings
 markdown: kramdown
