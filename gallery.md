@@ -19,7 +19,7 @@ photos:
       <h2>Photos</h2><hr>
       {% for item in page.photos %}
         <div class="col-md-4">
-          <a data-fancybox="gallery" href="{{ item.img }}">
+          <a data-fancybox="gallery" href="{{ site.baseurl }}/img/{{ item.img }}">
             <img src="{{ site.baseurl }}/img/{{ item.img }}" alt="picture of {{ item.name }}" title="{{ item.name }}" class="img-center img-responsive">
           </a>
         </div>
