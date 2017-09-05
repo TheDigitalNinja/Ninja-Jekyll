@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 copyright: Ninja Jekyll
 description: "Site Description"
 baseurl: "/Ninja-Jekyll"
-url: "https://thedigitalninja.github.io/Ninja-Jekyll/"
+url: "https://thedigitalninja.github.io"
 facebook:  thedigitalninja
 twitter: thedigitalninja
 github:  TheDigitalNinja/Ninja-Jekyll
