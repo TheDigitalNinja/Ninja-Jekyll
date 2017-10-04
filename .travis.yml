@@ -1,0 +1,11 @@
+language: ruby
+rvm:
+  - 2.3.3
+
+script: ./.ci/script.sh
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+sudo: false
