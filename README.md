@@ -1,5 +1,7 @@
 # Ninja Jekyll
 
+[![Build Status](https://travis-ci.org/TheDigitalNinja/Ninja-Jekyll.svg?branch=master)](https://travis-ci.org/TheDigitalNinja/Ninja-Jekyll)
+
 A bootstrap based Jekyll framework and theme for websites.
 
 [View Demo](https://thedigitalninja.github.io/Ninja-Jekyll/)
