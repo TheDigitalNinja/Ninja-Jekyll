@@ -6,3 +6,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll"
 end
+
+group :ci do
+  gem "html-proofer"
+end
